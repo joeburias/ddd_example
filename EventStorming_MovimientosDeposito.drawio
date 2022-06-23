@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T19:07:28.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="oXtXW_0DGad8VMSZS-28" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T19:11:55.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="88Py6SoqJ47XwdXU5Bx_" version="20.0.3" type="github">
   <diagram id="OEI9NIcgQ1z4I7qsaQ8Y" name="Page-1">
-    <mxGraphModel dx="1243" dy="1839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZO1erbnttgLNgw-oai5Y-36" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-75" width="550" height="550" as="geometry" />
+        </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-2" value="Movimientos consultados" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="610" y="160" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-3" value="Sesión iniciada" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="80" height="100" as="geometry" />
+          <mxGeometry x="160" y="185" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-5" value="Sesión cerrada" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="160" width="80" height="100" as="geometry" />
+          <mxGeometry x="1040" y="160" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-6" value="Movimientos solicitados" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="420" y="160" width="80" height="100" as="geometry" />
@@ -26,7 +29,7 @@
           <mxGeometry x="514" y="-60" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="160" width="90" height="120" as="geometry" />
+          <mxGeometry x="60" y="185" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-15" value="" style="group" vertex="1" connectable="0" parent="ZO1erbnttgLNgw-oai5Y-12">
           <mxGeometry x="-10" width="100" height="120" as="geometry" />
@@ -50,7 +53,7 @@
           <mxGeometry y="60" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="900" y="160" width="90" height="120" as="geometry" />
+          <mxGeometry x="940" y="160" width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-22" value="" style="group" vertex="1" connectable="0" parent="ZO1erbnttgLNgw-oai5Y-21">
           <mxGeometry x="-10" width="100" height="120" as="geometry" />
@@ -61,29 +64,32 @@
         <mxCell id="ZO1erbnttgLNgw-oai5Y-24" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="ZO1erbnttgLNgw-oai5Y-22">
           <mxGeometry y="60" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZO1erbnttgLNgw-oai5Y-25" value="¿Con qué campo se solicitan los movimientos?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#76608a;strokeColor=#432D57;size=18;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="ZO1erbnttgLNgw-oai5Y-25" value="¿Con qué campo se solicitan los movimientos?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#76608a;strokeColor=#432D57;size=18;fontColor=#ffffff;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="50" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-26" value="¿Qué datos deben aparecer?" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#76608a;strokeColor=#432D57;size=23;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="610" y="50" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-27" value="Sistema de sesiones de usuario / autenticación" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffcccc;strokeColor=#36393d;size=18;" vertex="1" parent="1">
-          <mxGeometry x="120" y="50" width="80" height="100" as="geometry" />
+          <mxGeometry x="160" y="75" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-28" value="Usuario registrado" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#cdeb8b;strokeColor=#36393d;size=18;" vertex="1" parent="1">
-          <mxGeometry x="47.5" y="230" width="62.5" height="70" as="geometry" />
+          <mxGeometry x="87.5" y="255" width="62.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-29" value="Lista de movimientos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#cdeb8b;strokeColor=#36393d;size=18;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="240" width="72.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-31" value="Política cerrar sesión inactiva durante 5 minutos" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#e1d5e7;strokeColor=#9673a6;size=14;" vertex="1" parent="1">
-          <mxGeometry x="710" y="160" width="80" height="100" as="geometry" />
+          <mxGeometry x="840" y="160" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-32" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="400" y="270" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZO1erbnttgLNgw-oai5Y-33" value="MOVIMIENTOS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="370" y="350" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZO1erbnttgLNgw-oai5Y-37" value="&lt;b&gt;CONTEXTO: CONSULTAR MOVIMIENTOS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
